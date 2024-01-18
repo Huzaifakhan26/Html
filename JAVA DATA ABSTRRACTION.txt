@@ -1,0 +1,19 @@
+Abstraction in Java is the process in which we only show essential details and functionalities to the user
+The non essential implementation are not displayed to the user
+The Java abstraction achieved by interfaces and abstract classes We can achieve 100 percent abstraction using interfaces
+Data abstraction may also be defined as the process of identifying only the required characteristics of an object ignoring the irrelevant detail.
+the property and behaviour of  an object differenciate it from other object of similar type  and also help in classifying/grouping of an object
+
+
+
+java abtract clases and java abstract methods 
+
+1.and abstract class is a class  that is declare with that abstract keywod for exampla-- abstract class
+2. and abstract methods is a method that is declared with out implementation--
+3. an abstract class may or may not have all abstract methods some of them can be concrete methods?
+4. a method define abstract must akways be redefine in sub class  sub class ids compulsry to make 
+5.any class that contain one ar more abstract method must also be declaree with abtract keyword
+
+there can be no obj of an abstractc class that is an abstract class cannot be directly 
+
+6. an abstract class can have prametarizze constructorand the defalt constructor is always present in an abstract class
